@@ -7,5 +7,5 @@ The SCUT-EnsText benchmark aims to motivate more advanced deep learning models f
 
 SCUT-EnsText contains a total of 3,562 images with diverse text characteristics, including text shape (horizontal text, arbitrary quadrilateral text and curved text) and languages(English and Chinese). It is split into a training set and a testing set. To ensure that both of them have the same data distribution, we randomly select approximately 70% of the images for training and the remainder of the images for testing. In total, the training set contains 2,749 images with 16,460 words, while the testing set contains 813 images with 4,864 words.
 
-
+![avatar](a.png)
 
