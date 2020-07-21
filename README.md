@@ -2,7 +2,7 @@
 
 Under complete construction and will be available in the near future...
 
-The SCUT-EPT Dataset for the research of scene text removal will be released by Deep Leaning and Visual Computing Lab of South China University of Technology. The dataset can be downloaded through the following link:
+The SCUT-EnsText Dataset for the research of scene text removal will be released by Deep Leaning and Visual Computing Lab of South China University of Technology. The dataset can be downloaded through the following link:
 
 - [Baidu Cloud](https://pan.baidu.com/s/1dRqQqLvOq21PV8G8PsA3dw) (Password : 23cx) 
 
