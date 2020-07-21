@@ -17,6 +17,7 @@ SCUT-EnsText contains a total of 3,562 images with diverse text characteristics,
 
 ## Citation and Contact
 
+Paper is still under review, we will update it soon.
 For any quetions about the dataset please contact the authors by sending email to Chongyu Liu([liuchongyu1996@gmail.com](mailto:liuchongyu1996@gmail.com)) or Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
 ## Copyright
