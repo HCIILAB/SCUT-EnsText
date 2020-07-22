@@ -22,7 +22,7 @@ For any quetions about the dataset please contact the authors by sending email t
 
 ## Copyright
 
-Copyright © 2019 SCUT-DLVC. All Rights Reserved.
+Copyright © 2020 SCUT-DLVC. All Rights Reserved.
 
 <p align="center">
     <img src="./images/scut-dlvc.jpeg" alt="Sample"  width="150" height="75">
