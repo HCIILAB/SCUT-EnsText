@@ -4,7 +4,9 @@ Under complete construction and will be available in the near future...
 
 The SCUT-EnsText Dataset for the research of scene text removal will be released by Deep Leaning and Visual Computing Lab of South China University of Technology. The dataset can be downloaded through the following link:
 
-- [Baidu Cloud](https://pan.baidu.com/s/1dRqQqLvOq21PV8G8PsA3dw) (Password : 23cx) (Now only the testing set is available. We will continue to update our dataset in the future.) 
+train set - [Baidu Cloud](https://pan.baidu.com/s/1BMVEbis2uL06hSlx-Vd0KA) (Password : 5xwi)
+
+test set - [Baidu Cloud](https://pan.baidu.com/s/1dRqQqLvOq21PV8G8PsA3dw) (Password : 23cx) (Now only the Baidu Cloud link is available. We will continue to update the dataset link in the future.) 
 
 Note: The SCUT-EnsText dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-EnsText database, please first fill in this [Application Form](https://github.com/HCIILAB/SCUT-EnsText/blob/master/Application_Form/Application_Form_for_Using_SCUT-EnsText_2020.doc) and send it via email to us (eelwjin@scut.edu.cn, or lianwen.jin@gmail.com). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, image inpainting, text editting, and so on.  We will give you the decompression password after your letter has been received and approved.
 
