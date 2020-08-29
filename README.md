@@ -19,16 +19,7 @@ SCUT-EnsText contains a total of 3,562 images with diverse text characteristics,
 
 ## Citation and Contact
 
-Please consider to cite our paper when you use our dataset:
-```
-@ARTICLE{LiuErase,
-  author={Liu, Chongyu and Liu, Yuliang and Jin, Lianwen and Zhang, Shuaitao and Luo, Canjie and Wang, Yongpan},
-  journal={IEEE Transactions on Image Processing}, 
-  title={EraseNet: End-to-End Text Removal in the Wild}, 
-  year={2020},
-  doi={10.1109/TIP.2020.3018859},
-  }
-```
+The paper is still under review, we will update it in the future.
 For any quetions about the dataset please contact the authors by sending email to Chongyu Liu([liuchongyu1996@gmail.com](mailto:liuchongyu1996@gmail.com)) or Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
 ## Copyright
