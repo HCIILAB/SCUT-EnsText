@@ -21,7 +21,7 @@ SCUT-EnsText contains a total of 3,562 images with diverse text characteristics,
 
 Please consider to cite our paper when you use our dataset:
 ```
-@ARTICLE{Erase_Liu,
+@ARTICLE{Erase,
   author={Liu, Chongyu and Liu, Yuliang and Jin, lianwen and Zhang, Shuaitao and Luo, Canjie and Wang, Yongpan},
   journal={IEEE Transactions on Image Processing}, 
   title={EraseNet: End-to-End Text Removal in the Wild}, 
