@@ -1,6 +1,6 @@
 # SCUT-EnsText
 
-Under complete construction and will be available in the near future...
+Under complete construction and will be completely available soon...
 
 The SCUT-EnsText Dataset for the research of scene text removal will be released by Deep Leaning and Visual Computing Lab of South China University of Technology. The dataset can be downloaded through the following link:
 
