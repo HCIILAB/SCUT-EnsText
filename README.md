@@ -24,7 +24,8 @@ Please consider to cite our paper when you use our dataset:
   journal={IEEE Transactions on Image Processing}, 
   title={EraseNet: End-to-End Text Removal in the Wild}, 
   year={2020},
-  doi={10.1109/TIP.2020.3018859},}
+  volume={29},
+  pages={8760-8775},}
 ```
 For any quetions about the dataset please contact the authors by sending email to Chongyu Liu([liuchongyu1996@gmail.com](mailto:liuchongyu1996@gmail.com)) or Prof. Jin([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
