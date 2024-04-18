@@ -4,7 +4,8 @@ The SCUT-EnsText Dataset for the research of scene text removal is released by D
 
 train set - [Baidu Cloud](https://pan.baidu.com/s/1BMVEbis2uL06hSlx-Vd0KA) (Password : 5xwi) - [Google Drive](https://drive.google.com/file/d/1eATARbG9Va2ObqQWCt63z8dF0ngVTYVQ/view?usp=sharing)
 
-test set - [Baidu Cloud](https://pan.baidu.com/s/102wsQqHykwmZdqyI786RcQ) (Password : u0ks)   - [Google Drive](https://drive.google.com/file/d/1AF2_CxxOo-1ZIFkHj_UzIEvG0HeJqUzj/view?usp=sharing)
+test set - [Baidu Cloud](https://pan.baidu.com/s/1UdDwgRJG4mByZvwTfca5bQ) (Password : 8vpg)   - [Google Drive](https://drive.google.com/file/d/1AF2_CxxOo-1ZIFkHj_UzIEvG0HeJqUzj/view?usp=sharing)
+
 
 The code for EraseNet can be referred to [EraseNet](https://github.com/lcy0604/EraseNet).
 
