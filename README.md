@@ -13,7 +13,7 @@ The SCUT-EnsText dataset can only be used for **non-commercial research purpose*
 
 **Step 1: Download and complete the agreement document:**
 
-- [Application Form for Using MSDS](./Application_Form/Application_Form_for_Using_SCUT-EnsText_2020.doc)
+- [Application Form for Using SCUT-EnsText](./Application_Form/Application_Form_for_Using_SCUT-EnsText_2020.doc)
 
 Have this document signed and stamped by your institution. Please also prepare 1–2 recent publications (within the last 6 years) as evidence that you or your team conduct research in OCR, image inpainting, text editting, and so on.
 
