@@ -9,7 +9,26 @@ test set - [Baidu Cloud](https://pan.baidu.com/s/1UdDwgRJG4mByZvwTfca5bQ) (Passw
 
 The code for EraseNet can be referred to [EraseNet](https://github.com/lcy0604/EraseNet).
 
-Note: The SCUT-EnsText dataset can only be used for non-commercial research purpose. Trainging set and testing set are available now, but the training set is encrypted with additional code. For scholars or organization who wants to use the SCUT-EnsText database, please first fill in this [Application Form](https://github.com/HCIILAB/SCUT-EnsText/blob/master/Application_Form/Application_Form_for_Using_SCUT-EnsText_2020.doc) and send it via email to us (eelwjin@scut.edu.cn, or lianwen.jin@gmail.com). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, image inpainting, text editting, and so on.  We will give you the decompression password after your letter has been received and approved. 
+The SCUT-EnsText dataset can only be used for **non-commercial research purpose**. Trainging set and testing set are available now, but the training set is encrypted with additional code. To request access, please follow these steps:
+
+**Step 1: Download and complete the agreement document:**
+
+- [Application Form for Using MSDS](./Application_Form/Application_Form_for_Using_SCUT-EnsText_2020.doc)
+
+Have this document signed and stamped by your institution. Please also prepare 1–2 recent publications (within the last 6 years) as evidence that you or your team conduct research in OCR, image inpainting, text editting, and so on.
+
+**Step 2: Submit your application online:**
+
+> 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for SCUT-EnsText](http://121.41.49.212:9000/apply/scutenstext)**
+
+Upload both signed documents through the portal and fill out the "Recent Publications" block. Your application will be reviewed manually and you will be notified by email once a decision has been made (typically within 1–5 business days).
+
+**Step 3: Download the dataset:**
+
+After approval, you will receive the download link and decompression password via email.
+
+> ⚠️ All users must comply with the use conditions at all times; failure to do so will result in revocation of access.
+
 
 ## Dataset Description
 The SCUT-EnsText benchmark aims to motivate more advanced deep learning models for scene text removal task. All of the images in our dataset are collected from several public real-world scene text reading benchmarks, including ICDAR2013, ICDAR-2015, MS COCO-Text, SVT, MLT-2017, MLT-2019, and ArTs.
